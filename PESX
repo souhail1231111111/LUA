@@ -1,0 +1,5 @@
+lua: [string "loadstring(game:HttpGet("https://raw.githubusercontent.com/souhail1231111111/LUS/main/Main.lua", true))()..."]:1: attempt to index a nil value (global 'game')
+stack traceback:
+	[string "loadstring(game:HttpGet("https://raw.githubusercontent.com/souhail1231111111/LUS/main/Main.lua", true))()..."]:1: in main chunk
+	main.lua:1: in main chunk
+	[C]: in ?
